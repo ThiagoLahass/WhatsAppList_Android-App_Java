@@ -11,7 +11,7 @@ O WhatsApp List é um aplicativo Android em Java que permite ao usuário listar 
 
 O aplicativo utiliza vários conceitos do desenvolvimento Android, incluindo:
 
-## 📐 Layouts
+## 🧰 Funcionalidades
 
 ### RecyclerView
 
@@ -32,8 +32,6 @@ O Dataset é o conjunto de dados que é exibido na RecyclerView. Ele geralmente 
 ### CircleImageView
 
 O CircleImageView é utilizado para exibir a foto de perfil de cada contato em um formato circular.
-
-## 🧰 Funcionalidades
 
 ### RecyclerItemClickListener - Eventos de clique em itens da RecyclerView
 
